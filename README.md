@@ -23,3 +23,7 @@ This plugin is intended for entertainment purposes and is not recommended for us
 ## License
 
 This project is licensed under the GNU GPLv3 License.
+
+## AI Disclosure
+
+This project was coded start to finish by a TotalNerdity fine-tuned LLM. \m/
