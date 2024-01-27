@@ -26,4 +26,5 @@ This project is licensed under the GNU GPLv3 License.
 
 ## AI Disclosure
 
-This project was coded start to finish by a TotalNerdity fine-tuned LLM. \m/
+This project was coded start to finish by a TotalNerdity fine-tuned LLM. \m/|
+final code modified for correctness and approved by @geeknik
