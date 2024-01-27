@@ -4,7 +4,7 @@
  * Plugin URI: https://github.com/your-github/chaotic-comments
  * Description: Randomly shuffles and styles comments for a chaotic display.
  * Version: 1.0
- * Author: geeknik
+ * Author: geeknik, Fred (Model_v01)
  * Author URI: https://totalnerdity.com
  */
 
