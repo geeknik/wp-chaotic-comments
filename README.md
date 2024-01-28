@@ -6,6 +6,8 @@ Chaotic Comments is a WordPress plugin that adds a twist to your comments sectio
 
 This plugin shuffles the comments on your WordPress site and applies random CSS styles to each comment. Expect varying font sizes, colors, margins, and rotations, creating a unique and eccentric user experience.
 
+![image](https://github.com/geeknik/wp-chaotic-comments/assets/466878/e8061030-5e95-4ffc-9107-06d2ae46e352)
+
 ## Installation
 
 1. Download the plugin from GitHub.
